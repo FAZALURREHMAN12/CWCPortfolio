@@ -2,6 +2,10 @@
 
 A responsive front-end portfolio project built with vanilla HTML and CSS. The project focuses on clean layout design, semantic structure, responsive behavior, and lightweight implementation without relying on JavaScript or external CSS frameworks.
 
+## Live Demo
+
+[View the deployed website](https://my-project-five-mauve.vercel.app)
+
 ## Preview
 
 <img width="1880" height="915" alt="CWC Portfolio homepage screenshot" src="https://github.com/user-attachments/assets/89201eab-15e7-4610-88a5-59fe9380340c" />
@@ -22,6 +26,7 @@ The goal was to build a professional-looking website without depending on prebui
 - Clean section-based page organization
 - Lightweight design with no framework dependency
 - Hover effects, transitions, and polished visual presentation
+- Deployed on Vercel as a static website
 
 ## Tech Stack
 
@@ -31,6 +36,7 @@ The goal was to build a professional-looking website without depending on prebui
 | Styling | CSS3 |
 | Layout | Flexbox, CSS Grid |
 | Responsiveness | CSS media queries |
+| Deployment | Vercel |
 
 ## What this project demonstrates
 
@@ -38,6 +44,7 @@ The goal was to build a professional-looking website without depending on prebui
 - Creating responsive layouts without Bootstrap or Tailwind
 - Organizing front-end code for readability
 - Designing a portfolio-style interface with consistent spacing and visual hierarchy
+- Deploying a static front-end project online
 
 ## How to run locally
 
@@ -54,10 +61,10 @@ No installation or build step is required.
 
 ## Future improvements
 
-- Add a live deployment link
-- Improve accessibility labels where needed
 - Add more project cards and contact details
+- Improve accessibility labels where needed
 - Add optional JavaScript for smoother interaction
+- Connect the contact section to a working form service
 
 ## Author
 
