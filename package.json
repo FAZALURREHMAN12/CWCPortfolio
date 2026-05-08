@@ -1,1 +1,0 @@
-{"scripts":{"build":"echo \"Static site - no build required\" && exit 0"},"dependencies":{},"devDependencies":{},"engines":{"node":"22.x"}}
