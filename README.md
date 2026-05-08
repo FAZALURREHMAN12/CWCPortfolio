@@ -4,7 +4,7 @@ A responsive front-end portfolio project built with vanilla HTML and CSS. The pr
 
 ## Live Demo
 
-[View the deployed website](https://my-project-five-mauve.vercel.app)
+[View the deployed website](https://cwc-portfolio.vercel.app/)
 
 ## Preview
 
